@@ -4,10 +4,9 @@ A password manager, made with python.
 ## Usage
 
 Run the script like this:
-`python pypw.py [import file]`
-The file contains the passwords. The file is written by the script, by adding accounts + passwords to the dictionary and then doing `save` when prompted. 
+`python pypw.py`
+The script will ask for a file. If you already have a password file stored (i.e. you have already used the program before), just input that as the filename. Otherwise, you will have to add accounts and passwords to the file using the program. Don't forget that the file isn't saved until you quit using 'q'. 
 
-To add accounts and passwords, type `add`. 
 
 ## Modules
 You will need to install the following modules:
@@ -21,3 +20,5 @@ You will need to install the following modules:
 -getpass
 
 -termcolor
+
+-pickle
