@@ -7,7 +7,7 @@ Instructions enclosed. If you've found this page, you've either used the program
 
 
 ## Modules
-You will need to install the following modules:
+You will need to install the following modules with `pip3 install [module]`:
 
 -OS
 
@@ -21,4 +21,4 @@ You will need to install the following modules:
 
 -time
 
-Note: on some OSs, these modules come bundled. You may not need to install them. 
+Note: on some OSs, these modules come bundled. If you get an error, that means that it's already installed. 
