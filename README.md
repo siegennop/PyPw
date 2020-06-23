@@ -22,3 +22,5 @@ You will need to install the following modules:
 -termcolor
 
 -pickle
+
+-time
