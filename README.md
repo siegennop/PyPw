@@ -17,8 +17,8 @@ You will need to install the following modules:
 
 -getpass
 
--termcolor
-
 -pickle
 
 -time
+
+Note: on some OSs, these modules come bundled. You may not need to install them. 
